@@ -1,0 +1,16 @@
+<suite name="Suite">
+	
+	<listeners>
+		<listener
+			class-name="com.pumo.utilityclass.ExtentListenerClass"></listener>
+	</listeners>
+	
+  
+  
+  <test name="Test">
+	  <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.pumo.testclass.Search_Products_Test1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

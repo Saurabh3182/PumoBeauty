@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser open]]>
+    </line>
+    <line>
+      <![CDATA[Enter URL]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Log Out Account]]>
+    </line>
+    <line>
+      <![CDATA[Browser Close]]>
+    </line>
+    <line>
+      <![CDATA[Browser open]]>
+    </line>
+    <line>
+      <![CDATA[Enter URL]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Log Out Account]]>
+    </line>
+    <line>
+      <![CDATA[Browser Close]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-26T15:31:05 IST" name="Suite" finished-at="2024-04-26T15:33:54 IST" duration-ms="169069">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T15:31:05 IST" name="Test" finished-at="2024-04-26T15:33:54 IST" duration-ms="169069">
+      <class name="com.pumo.testclass.Search_Products_Test1">
+        <test-method is-config="true" signature="initialize(java.lang.String)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:05 IST" name="initialize" finished-at="2024-04-26T15:31:43 IST" duration-ms="37906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:43 IST" name="Login" finished-at="2024-04-26T15:31:54 IST" duration-ms="10761" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser open]]>
+            </line>
+            <line>
+              <![CDATA[Enter URL]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:54 IST" name="INSHINE_Lipstick" finished-at="2024-04-26T15:32:29 IST" duration-ms="35867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- INSHINE_Lipstick -->
+        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:32:29 IST" name="logout" finished-at="2024-04-26T15:32:50 IST" duration-ms="20325" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=INSHINE_Lipstick status=SUCCESS method=Search_Products_Test1.INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Log Out Account]]>
+            </line>
+            <line>
+              <![CDATA[Browser Close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:32:50 IST" name="Login" finished-at="2024-04-26T15:33:00 IST" duration-ms="10636" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser open]]>
+            </line>
+            <line>
+              <![CDATA[Enter URL]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:00 IST" name="lakyou_beauty_25" finished-at="2024-04-26T15:33:33 IST" duration-ms="33000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lakyou_beauty_25 -->
+        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:33 IST" name="logout" finished-at="2024-04-26T15:33:54 IST" duration-ms="20229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lakyou_beauty_25 status=SUCCESS method=Search_Products_Test1.lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Log Out Account]]>
+            </line>
+            <line>
+              <![CDATA[Browser Close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:54 IST" name="CloseBrowser" finished-at="2024-04-26T15:33:54 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.pumo.testclass.Search_Products_Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
