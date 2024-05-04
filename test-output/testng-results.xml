@@ -32,12 +32,12 @@
       <![CDATA[Browser Close]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-04-26T15:31:05 IST" name="Suite" finished-at="2024-04-26T15:33:54 IST" duration-ms="169069">
+  <suite started-at="2024-05-04T15:09:36 IST" name="Suite" finished-at="2024-05-04T15:11:48 IST" duration-ms="131961">
     <groups>
     </groups>
-    <test started-at="2024-04-26T15:31:05 IST" name="Test" finished-at="2024-04-26T15:33:54 IST" duration-ms="169069">
+    <test started-at="2024-05-04T15:09:36 IST" name="Test" finished-at="2024-05-04T15:11:48 IST" duration-ms="131961">
       <class name="com.pumo.testclass.Search_Products_Test1">
-        <test-method is-config="true" signature="initialize(java.lang.String)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:05 IST" name="initialize" finished-at="2024-04-26T15:31:43 IST" duration-ms="37906" status="PASS">
+        <test-method is-config="true" signature="initialize(java.lang.String)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:09:36 IST" name="initialize" finished-at="2024-05-04T15:09:41 IST" duration-ms="5357" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:43 IST" name="Login" finished-at="2024-04-26T15:31:54 IST" duration-ms="10761" status="PASS">
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:09:41 IST" name="Login" finished-at="2024-05-04T15:09:52 IST" duration-ms="10384" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser open]]>
@@ -61,15 +61,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:31:54 IST" name="INSHINE_Lipstick" finished-at="2024-04-26T15:32:29 IST" duration-ms="35867" status="PASS">
+        <test-method signature="INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:09:52 IST" name="INSHINE_Lipstick" finished-at="2024-05-04T15:10:25 IST" duration-ms="32829" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- INSHINE_Lipstick -->
-        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:32:29 IST" name="logout" finished-at="2024-04-26T15:32:50 IST" duration-ms="20325" status="PASS">
+        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:10:25 IST" name="logout" finished-at="2024-05-04T15:10:45 IST" duration-ms="19995" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=INSHINE_Lipstick status=SUCCESS method=Search_Products_Test1.INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0] output={null}]]]>
+                <![CDATA[[TestResult name=INSHINE_Lipstick status=SUCCESS method=Search_Products_Test1.INSHINE_Lipstick()[pri:1, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37] output={null}]]]>
               </value>
             </param>
           </params>
@@ -82,7 +82,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:32:50 IST" name="Login" finished-at="2024-04-26T15:33:00 IST" duration-ms="10636" status="PASS">
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:10:45 IST" name="Login" finished-at="2024-05-04T15:10:55 IST" duration-ms="10343" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser open]]>
@@ -95,15 +95,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:00 IST" name="lakyou_beauty_25" finished-at="2024-04-26T15:33:33 IST" duration-ms="33000" status="PASS">
+        <test-method signature="lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:10:55 IST" name="lakyou_beauty_25" finished-at="2024-05-04T15:11:28 IST" duration-ms="32776" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lakyou_beauty_25 -->
-        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:33 IST" name="logout" finished-at="2024-04-26T15:33:54 IST" duration-ms="20229" status="PASS">
+        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:11:28 IST" name="logout" finished-at="2024-05-04T15:11:48 IST" duration-ms="20014" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=lakyou_beauty_25 status=SUCCESS method=Search_Products_Test1.lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0] output={null}]]]>
+                <![CDATA[[TestResult name=lakyou_beauty_25 status=SUCCESS method=Search_Products_Test1.lakyou_beauty_25()[pri:2, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37] output={null}]]]>
               </value>
             </param>
           </params>
@@ -116,7 +116,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@4d1c00d0]" started-at="2024-04-26T15:33:54 IST" name="CloseBrowser" finished-at="2024-04-26T15:33:54 IST" duration-ms="128" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.pumo.testclass.Search_Products_Test1@3bf7ca37]" started-at="2024-05-04T15:11:48 IST" name="CloseBrowser" finished-at="2024-05-04T15:11:48 IST" duration-ms="87" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->

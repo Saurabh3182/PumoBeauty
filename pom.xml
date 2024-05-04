@@ -36,14 +36,13 @@
 					<version>3.2.5</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>multibrowser.xml</suiteXmlFile>
+							<suiteXmlFile>browsertesting.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
-
 
   <dependencies>
     <dependency>
@@ -100,4 +99,5 @@
      
   </dependencies>
 
+ 
 </project>
